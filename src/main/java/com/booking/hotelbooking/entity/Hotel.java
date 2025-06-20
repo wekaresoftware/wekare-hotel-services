@@ -51,5 +51,4 @@ public class Hotel {
 		this.longitude = longitude;
 	}
 	
-    
 }
